@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="250" alt="Cory Tucker Avatar"/>
+  <img src="https://github.com/Blize0367/.-assets-avatar.png/blob/7e3af42758088e922a586d8b11d3a4204d2b02b5/SystemsThinker.png" width="250" alt="Cory Tucker Avatar"/>
 </p>
 
 <h1 align="center">Hi, I'm Cory 👋</h1>
