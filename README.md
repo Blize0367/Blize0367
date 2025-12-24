@@ -4,87 +4,78 @@
 
 <h1 align="center">Hi, I'm Cory 👋</h1>
 <h3 align="center">Bald architect of reproducible systems.</h3>
-<p align="center">Python, YAML, VS Code, Postman. I build workflows that never drift.</p>
+<p align="center">I build workflows that stay clean, intentional, and drift‑free.</p>
 
 ---
 
-## 🧰 Tech stack
+## 🧰 Tech Stack & Tools
 
-**Languages & runtimes**
+**Languages & Configs**
+- Python (learning through hands‑on API and workflow projects)
+- YAML (learning through real configuration and automation patterns)
 
-- **Python:** API backends, scripting, workflow automation  
-- **YAML:** Configuration as contract, structured workflows  
-
-**Tools & environments**
-
-- **VS Code:** Primary editor, workspace and task orchestration  
-- **Postman:** API design, testing, and documentation  
-- **Git & GitHub:** Version control, collaboration, and deployment
+**Tools**
+- VS Code — my primary workspace
+- Postman — API testing, documentation, and exploration
+- Git & GitHub — version control, structure, and collaboration
 
 ---
 
-## 🧩 What I build
+## 🌱 Currently Learning
+> **Growing my skills in Python and YAML through hands‑on projects, workflow design, and API experimentation.**
 
-- **APIs and backends:**  
-  Flask/FastAPI-style services focused on clarity, structure, and easy extension.
-
-- **Reproducible workflows:**  
-  YAML-based configs and scripts that remove guesswork and make behavior repeatable.
-
-- **Testing & validation layers:**  
-  Postman collections and basic automation that keep changes safe and intentional.
-
-- **Developer environments:**  
-  VS Code workspaces, recommended extensions, and settings to get from zero to productive fast.
+This keeps my work grounded, honest, and always moving forward.
 
 ---
 
-## 💼 Freelance offerings
+## 🧩 What I Build
 
-I like turning messy processes into clean, modular systems.
+- **APIs & backend structures**  
+  Small, clean services built with clarity and reproducibility in mind.
 
-- **API development:**  
-  Design and implement small to mid-sized APIs (authentication, routing, basic business logic).
+- **Workflow systems**  
+  YAML‑driven configs that remove guesswork and make behavior predictable.
 
-- **YAML configuration design:**  
-  Structure configs for apps, services, and workflows so they’re readable and maintainable.
+- **Testing layers**  
+  Postman collections that validate API behavior and document endpoints.
 
-- **Postman test suites:**  
-  Collections that document and validate your API behavior.
-
-- **VS Code environment setup:**  
-  Settings, tasks, and extensions tailored to your project or team.
-
-- **Architecture & debug audits:**  
-  Review existing projects for structure, clarity, and consistency; suggest and implement refactors.
-
-> **Interested in working together?**  
-> Open an issue or reach out via the contact info on my profile.
+- **Developer environments**  
+  VS Code setups that get from zero to productive with minimal friction.
 
 ---
 
-## 🔄 How I think about systems
+## 💼 Freelance Offerings
 
-- **Reproducibility first:**  
-  If it can’t be run twice with the same result, it isn’t done yet.
+I help people turn messy processes into clean, modular systems.
 
-- **Configs as contracts:**  
-  YAML and settings are living agreements between people and machines.
+- API development (Flask/FastAPI style)
+- YAML configuration design
+- Workflow automation
+- Postman test suite creation
+- VS Code environment setup
+- Architecture & debugging audits
 
-- **No drift:**  
-  I prefer explicit decisions over “it just kind of evolved this way.”
-
-- **Small, composable pieces:**  
-  I’d rather ship a clean, well-defined module than a tangled “big thing.”
+> **Want to collaborate?**  
+> Open an issue or reach out through my GitHub profile.
 
 ---
 
-## 📌 What you’ll find here
+## 🔄 How I Think About Systems
 
-- API templates and starter projects  
-- YAML-based workflow patterns  
-- Example Postman collections  
+- **Reproducibility first** — if it can’t be run twice with the same result, it isn’t done.  
+- **Configs as contracts** — YAML and settings define behavior clearly and explicitly.  
+- **No drift** — intentional decisions over accidental evolution.  
+- **Small, composable modules** — clarity beats complexity every time.
+
+---
+
+## 📌 What You’ll Find Here
+
+- API starter templates  
+- YAML workflow patterns  
+- Postman collections  
 - VS Code workspace setups  
 - Experiments in making complex work feel calm and predictable
 
-Thanks for stopping by — feel free to fork, open issues, or just read the code and steal ideas.
+Thanks for stopping by — feel free to explore, fork, or borrow ideas.
+
